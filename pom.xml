@@ -8,7 +8,7 @@
   <name>booksun Maven Webapp</name>
   <url>http://maven.apache.org</url>
     <properties>
-    <mysql-version>5.1.47</mysql-version>
+    <mysql-version>8.0.16</mysql-version>
     <spring-version>4.2.6.RELEASE</spring-version>
     <struts-version>2.3.24.1</struts-version>
     <hibernate-version>4.3.11.Final</hibernate-version>
